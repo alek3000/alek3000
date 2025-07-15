@@ -1,4 +1,11 @@
-## Hi there 👋
+Alek's the name, codings my game!
+
+I am a second year electrical engineering student with a deep passion for anything tech related.
+
+- 🔭 I’m currently working on communication between two arduino boards
+- 🌱 I’m currently learning python coding
+- ⚡ Fun fact: I have a deep passion for literature
+
 
 <!--
 **alek3000/alek3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
