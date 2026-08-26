@@ -1,23 +1,13 @@
-Alek's the name, codings my game!
+**Alek's the name, codings my game! 👋**
 
-I am a second year electrical engineering student with a deep passion for anything tech related.
+I'm a third-year Electrical Engineering student at UBC. I specialize in hardware-software co-design, bridging the gap between bare-metal hardware and high-level software.
 
-- 🔭 I’m currently working on communication between two arduino boards
-- 🌱 I’m currently learning python coding
-- ⚡ Fun fact: I have a deep passion for literature
+🛠️ **The Tech Stack**
+* **Embedded:** Bare-metal C/C++, STM32, Intel FPGAs (Nios V), CAN bus, Altium 
+* **Validation & Web:** Python (SIL frameworks, TCP/IP spoofing), React, Next.js
 
+🚀 **What I'm Building**
+Currently working on EV charging embedded and SIL/HIL work and architecting 5-ECU telemetry systems for the UBC Baja SAE racing team. 
 
-<!--
-**alek3000/alek3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏔️ **Off the Screen**
+When I'm not debugging with a logic analyzer, you can find me scrambling up local BC trails like Eagle Bluffs, hitting the gym, or reading epic sci-fi like *The Will of the Many* or the *Red Rising* series.
